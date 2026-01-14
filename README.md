@@ -51,7 +51,7 @@ J'ai piloté le développement technique de plusieurs projets industriels majeur
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexy4910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alexy4910's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexy4910&show_icons=true&theme=tokyonight&hide_border=true" alt="Alexy4910's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexy4910&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
