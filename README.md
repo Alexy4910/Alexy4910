@@ -2,9 +2,9 @@
 
 ### Ingénieur Informatique | Mobile & Full Stack Developer
 
-Basé à Lille, je suis **Ingénieur Informatique** avec plus de 7 ans d'expérience chez **UBI Solutions**. Je me spécialise dans le pont entre le monde physique et le numérique, en développant des solutions de traçabilité **IoT (RFID & BLE)** complexes et à fort volume.
+Basé à Lille, je suis **Ingénieur Informatique** avec plus de 7 ans d'expérience chez **UBI Solutions**. Je me spécialise dans le pont entre le monde physique et le numérique (IoT), tout en explorant activement le **Vibecoding** et les workflows augmentés par l'**IA**.
 
-Mon cœur de métier est le développement mobile moderne (Jetpack Compose), mais j'interviens régulièrement en tant que Lead Full Stack sur des architectures complètes (Spring Boot / Angular).
+Mon cœur de métier est le développement mobile moderne (Jetpack Compose) et les architectures Full Stack, mais je suis avant tout un passionné qui utilise l'IA pour repousser les limites du code.
 
 ---
 
@@ -15,20 +15,22 @@ Mon cœur de métier est le développement mobile moderne (Jetpack Compose), mai
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
+**AI & Vibecoding**
+![OpenAI](https://img.shields.io/badge/AI_&_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Vibecoding-000000?style=for-the-badge&logo=console&logoColor=white)
+
 **Backend & Data**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Frontend**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**IoT & Tools**
+**IoT**
 ![BLE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![RFID](https://img.shields.io/badge/RFID-IoT-orange?style=for-the-badge)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -57,4 +59,4 @@ J'ai piloté le développement technique de plusieurs projets industriels majeur
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-url-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexyledain/)
