@@ -1,6 +1,6 @@
 # Hi there, I'm Alexy 👋
 
-### Ingénieur Informatique | Mobile & Full Stack Developer
+### Ingénieur Informatique | Full Stack Developer | 🚀 Expert RFID | IA
 
 Basé à Lille, je suis **Ingénieur Informatique** avec plus de 7 ans d'expérience chez **UBI Solutions**. Je me spécialise dans le pont entre le monde physique et le numérique (IoT), tout en explorant activement le **Vibecoding** et les workflows augmentés par l'**IA**.
 
